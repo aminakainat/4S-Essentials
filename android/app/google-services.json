@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474124485639",
+    "project_id": "sessentials-58072",
+    "storage_bucket": "sessentials-58072.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474124485639:android:7caab8796c41531edcd6a2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_4sessentials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz9w2c43QY1d4K3tvedhwTvP4_E_z7KaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
