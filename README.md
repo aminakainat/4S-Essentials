@@ -15,7 +15,7 @@
 -  **Order History & Tracking:** Detailed view of current and completed orders.
 -  **User Profile:** Manage personal details and delivery addresses.
 
-### 🛡️ Admin Management Panel
+###  Admin Management Panel
 -  **Business Analytics:** Interactive charts powered by `fl_chart` for revenue and sales metrics.
 -  **Product & Inventory Management:** Add, update, or remove products and upload product images to **Firebase Storage**.
 -  **PDF Invoice & Sales Reports:** Generate and print PDF invoices or share reports using `pdf`, `printing`, and `share_plus`.
